@@ -17,5 +17,5 @@
         "object-curly-spacing":"off",
         "arrow-parens":"off"
     },
-    "extends": ["eslint:recommended", "google"],
+    "extends": ["eslint:recommended", "google"]
 }
